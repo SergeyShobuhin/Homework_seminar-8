@@ -13,26 +13,26 @@
 **************/
 
 // Функция определения массива
-int [,]  GetArrayRandom(int line, int column)
-    {
-        int[,] array = new int [line,column];
-        var random = new Random();
+int[,] GetArrayRandom(int line, int column)
+{
+    int[,] array = new int[line, column];
+    var random = new Random();
 
-        for (int i = 0; i < line; i++)
-            {
-                 for (int j = 0; j < column; j++)
-                 {
-                    array[i,j] = random.Next(0, 10);
-                    Console.Write(array[i,j]  + "   ");
-                 }
-                 Console.WriteLine();
-            }
-            
-        return array;
+    for (int i = 0; i < line; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            array[i, j] = random.Next(0, 10);
+            Console.Write(array[i, j] + "   ");
+        }
+        Console.WriteLine();
     }
 
+    return array;
+}
 
-int GetArithmeticArrayСolumn(int [,] array)
+
+int GetArithmeticArrayСolumn(int[,] array)
 {
 
     int currentSum = 0;
@@ -44,22 +44,22 @@ int GetArithmeticArrayСolumn(int [,] array)
         currentSum = 0;
         for (int j = 0; j < array.GetLength(1); j++) //Столбцы
         {
-            currentSum = currentSum + array[i, j];           
+            currentSum = currentSum + array[i, j];
         }
-            Console.Write(currentSum + " ");
+        Console.Write(currentSum + " ");
 
         if (i == 0 || currentSum < minSum)
         {
             minSum = currentSum;
             indexMin = i;
-        }    
-           
+        }
 
 
-    }      
 
-        return indexMin + 1;       
-       
+    }
+
+    return indexMin + 1;
+
 }
 
 

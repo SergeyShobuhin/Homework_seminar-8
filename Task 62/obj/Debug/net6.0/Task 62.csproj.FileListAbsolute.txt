@@ -1,0 +1,15 @@
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\bin\Debug\net6.0\Task 62.exe
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\bin\Debug\net6.0\Task 62.deps.json
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\bin\Debug\net6.0\Task 62.runtimeconfig.json
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\bin\Debug\net6.0\Task 62.dll
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\bin\Debug\net6.0\Task 62.pdb
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.csproj.AssemblyReference.cache
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfoInputs.cache
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfo.cs
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.csproj.CoreCompileInputs.cache
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.dll
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\refint\Task 62.dll
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.pdb
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\Task 62.genruntimeconfig.cache
+F:\Учеба Программирование\Знакомство с языками программирования_3\Seminar_8\Homework\Task 62\obj\Debug\net6.0\ref\Task 62.dll
